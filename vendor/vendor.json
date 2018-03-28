@@ -3,10 +3,10 @@
 	"ignore": "test",
 	"package": [
 		{
-			"checksumSHA1": "D8hEjr7exRaY14eEFEXCSV6YXao=",
+			"checksumSHA1": "vxHu9L6esg++gb3N/barThSWhZM=",
 			"path": "github.com/99designs/keyring",
-			"revision": "5fbd4674c81065bd80b5adfee8a127c5c47e48ce",
-			"revisionTime": "2017-12-29T03:53:02Z"
+			"revision": "96c6464ce6c2ab52973df411d74c867485cd0667",
+			"revisionTime": "2018-03-28T22:07:57Z"
 		},
 		{
 			"checksumSHA1": "KmjnydoAbofMieIWm+it5OWERaM=",
@@ -175,6 +175,12 @@
 			"path": "github.com/aws/aws-sdk-go/service/sts",
 			"revision": "388802d0cf038f72020ee99b51781d181e894c1c",
 			"revisionTime": "2016-09-29T23:03:56Z"
+		},
+		{
+			"checksumSHA1": "vvFDcA+qQlBPrJjKEYQCHVBS9xQ=",
+			"path": "github.com/danieljoos/wincred",
+			"revision": "412b574fb496839b312a75fba146bd32a89001cf",
+			"revisionTime": "2017-04-09T18:24:07Z"
 		},
 		{
 			"checksumSHA1": "rSFw3D9mMLfFx4GuETt5aWGWi64=",
